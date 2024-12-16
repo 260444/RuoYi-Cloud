@@ -1,5 +1,7 @@
 # 基础镜像
-FROM nacos/nacos-server
+# FROM nacos/nacos-server
+FROM registry.cn-hangzhou.aliyuncs.com/lsc_2/nacos-server:v2.0.4
+
 # author
 MAINTAINER ruoyi
 

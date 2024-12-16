@@ -1,5 +1,5 @@
 # 基础镜像
-FROM redis
+FROM registry.cn-hangzhou.aliyuncs.com/lsc_2/redis:6.0.5
 # author
 MAINTAINER ruoyi
 
